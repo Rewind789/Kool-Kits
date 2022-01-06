@@ -18,14 +18,16 @@ body {
     background-color: white;
     border-radius: 220px;
 }
+h2 {
+    color: white;
+    font-family: 'ZCool Kuaile';
+}
     
 .text {
     padding: 20px;
     background-color: white;
     border-radius: 50px;
     font-family: 'ZCool KuaiLe';
-}
-h2 {
     color: white;
-    font-family: 'ZCool Kuaile';
 }
+
